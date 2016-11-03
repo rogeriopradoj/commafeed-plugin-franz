@@ -1,0 +1,23 @@
+{
+  "name": "commafeed",
+  "version": "1.0.0",
+  "description": "commafeed",
+  "main": "index.js",
+  "author": "Rogerio Prado de Jesus <rogeriopradoj@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://commafeed.com",
+    "serviceName": "CommaFeed",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
